@@ -1,0 +1,929 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6E1B57FA24E220F80069A0C4 /* 2. nokcha_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57E924E220EC0069A0C4 /* 2. nokcha_2208_1242.json */; };
+		6E1B57FB24E220F80069A0C4 /* 5. deck human_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57EA24E220ED0069A0C4 /* 5. deck human_2208_1242.json */; };
+		6E1B57FC24E220F80069A0C4 /* 7. udo wave_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57EB24E220ED0069A0C4 /* 7. udo wave_2208_1242.json */; };
+		6E1B57FD24E220F80069A0C4 /* 8. bambada light wave_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57EC24E220EE0069A0C4 /* 8. bambada light wave_2208_1242.json */; };
+		6E1B57FE24E220F80069A0C4 /* 3. cheonwangsa_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57ED24E220EF0069A0C4 /* 3. cheonwangsa_2208_1242.json */; };
+		6E1B580024E220F80069A0C4 /* 1. airport_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57EF24E220F00069A0C4 /* 1. airport_2208_1242.json */; };
+		6E1B580224E220F80069A0C4 /* 6. soggak boat_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F124E220F20069A0C4 /* 6. soggak boat_2208_1242.json */; };
+		6E1B580424E220F80069A0C4 /* 6. soggak wave_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F324E220F40069A0C4 /* 6. soggak wave_2208_1242.json */; };
+		6E1B580524E220F80069A0C4 /* 4. saryeoni_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F424E220F40069A0C4 /* 4. saryeoni_2208_1242.json */; };
+		6E1B580624E220F80069A0C4 /* 8. bambada star_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F524E220F50069A0C4 /* 8. bambada star_2208_1242.json */; };
+		6E1B580724E220F80069A0C4 /* 7. udo human_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F624E220F60069A0C4 /* 7. udo human_2208_1242.json */; };
+		6E1B580824E220F80069A0C4 /* 9. Aewol human_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F724E220F60069A0C4 /* 9. Aewol human_2208_1242.json */; };
+		6E1B580924E220F80069A0C4 /* 9. Aewol wave_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F824E220F70069A0C4 /* 9. Aewol wave_2208_1242.json */; };
+		6E1B580A24E220F80069A0C4 /* 5. deck wave_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B57F924E220F80069A0C4 /* 5. deck wave_2208_1242.json */; };
+		6E1B581C24E2211F0069A0C4 /* 8. bambada light wave_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B580B24E221130069A0C4 /* 8. bambada light wave_2436_1125.json */; };
+		6E1B581D24E2211F0069A0C4 /* 2. nokcha_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B580C24E221140069A0C4 /* 2. nokcha_2436_1125.json */; };
+		6E1B581E24E2211F0069A0C4 /* 3. cheonwangsa_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B580D24E221140069A0C4 /* 3. cheonwangsa_2436_1125.json */; };
+		6E1B581F24E2211F0069A0C4 /* 5. deck wave_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B580E24E221150069A0C4 /* 5. deck wave_2436_1125.json */; };
+		6E1B582024E2211F0069A0C4 /* 7. udo human_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B580F24E221160069A0C4 /* 7. udo human_2436_1125.json */; };
+		6E1B582124E2211F0069A0C4 /* 6. soggak wave_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581024E221170069A0C4 /* 6. soggak wave_2436_1125.json */; };
+		6E1B582324E2211F0069A0C4 /* 1. airport_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581224E221190069A0C4 /* 1. airport_2436_1125.json */; };
+		6E1B582424E2211F0069A0C4 /* 8. bambada star_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581324E221190069A0C4 /* 8. bambada star_2436_1125.json */; };
+		6E1B582524E2211F0069A0C4 /* 9. Aewol wave_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581424E2211A0069A0C4 /* 9. Aewol wave_2436_1125.json */; };
+		6E1B582624E2211F0069A0C4 /* 9. Aewol human_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581524E2211B0069A0C4 /* 9. Aewol human_2436_1125.json */; };
+		6E1B582924E2211F0069A0C4 /* 5. deck human_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581824E2211D0069A0C4 /* 5. deck human_2436_1125.json */; };
+		6E1B582A24E2211F0069A0C4 /* 7. udo wave_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581924E2211D0069A0C4 /* 7. udo wave_2436_1125.json */; };
+		6E1B582B24E2211F0069A0C4 /* 6. soggak boat_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581A24E2211E0069A0C4 /* 6. soggak boat_2436_1125.json */; };
+		6E1B582C24E2211F0069A0C4 /* 4. saryeoni_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1B581B24E2211F0069A0C4 /* 4. saryeoni_2436_1125.json */; };
+		6E1C562424E4BFA500105E72 /* 5. deck ship_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562324E4BFA500105E72 /* 5. deck ship_2436_1125.json */; };
+		6E1C562624E4BFB200105E72 /* 5. deck ship_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562524E4BFB200105E72 /* 5. deck ship_2208_1242.json */; };
+		6E1C562B24E4BFF300105E72 /* 10. olle shadow_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562924E4BFF200105E72 /* 10. olle shadow_2436_1125.json */; };
+		6E1C562C24E4BFF300105E72 /* 10. olle tree cloud_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562A24E4BFF300105E72 /* 10. olle tree cloud_2436_1125.json */; };
+		6E1C562F24E4BFFF00105E72 /* 10. olle shadow_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562D24E4BFFE00105E72 /* 10. olle shadow_2208_1242.json */; };
+		6E1C563024E4BFFF00105E72 /* 10. olle tree cloud_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1C562E24E4BFFF00105E72 /* 10. olle tree cloud_2208_1242.json */; };
+		6E1CAB502472204A00190EDE /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E1CAB4F2472204900190EDE /* StoreKit.framework */; };
+		6E1CAB5224725BE300190EDE /* storeObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1CAB5124725BE300190EDE /* storeObserver.swift */; };
+		6E4DB6A32264B3E800C8B96D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4DB6A22264B3E800C8B96D /* AppDelegate.swift */; };
+		6E4DB6A52264B3E800C8B96D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4DB6A42264B3E800C8B96D /* ViewController.swift */; };
+		6E4DB6A82264B3E800C8B96D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E4DB6A62264B3E800C8B96D /* Main.storyboard */; };
+		6E4DB6AD2264B3E800C8B96D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E4DB6AC2264B3E800C8B96D /* Assets.xcassets */; };
+		6E4DB6B02264B3E800C8B96D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E4DB6AE2264B3E800C8B96D /* LaunchScreen.storyboard */; };
+		6E64C2DF228270F8001A2544 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E64C2DE228270F8001A2544 /* DetailViewController.swift */; };
+		6E6BCAB8263BEDF4007659D5 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6E6BCABA263BEDF4007659D5 /* Localizable.strings */; };
+		6E7FF6B6241237D90075288C /* Pods_ADRE.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91EE2613407C7A88C12DE185 /* Pods_ADRE.framework */; };
+		6E892E4724ED112C004E378B /* main_pokpo_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E3B24ED111A004E378B /* main_pokpo_2208_1242.json */; };
+		6E892E4824ED112C004E378B /* main_saryeoni_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E3C24ED111B004E378B /* main_saryeoni_2208_1242.json */; };
+		6E892E4924ED112C004E378B /* main_cheonwangsa_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E3D24ED111C004E378B /* main_cheonwangsa_2208_1242.json */; };
+		6E892E4A24ED112C004E378B /* main_center_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E3E24ED111D004E378B /* main_center_2208_1242.json */; };
+		6E892E4B24ED112C004E378B /* main_airport_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E3F24ED111E004E378B /* main_airport_2208_1242.json */; };
+		6E892E4C24ED112C004E378B /* main_olle_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4024ED1120004E378B /* main_olle_2208_1242.json */; };
+		6E892E4D24ED112C004E378B /* main_soggak_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4124ED1122004E378B /* main_soggak_2208_1242.json */; };
+		6E892E4E24ED112C004E378B /* main_nokcha_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4224ED1127004E378B /* main_nokcha_2208_1242.json */; };
+		6E892E4F24ED112C004E378B /* main_camera_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4324ED1128004E378B /* main_camera_2208_1242.json */; };
+		6E892E5024ED112C004E378B /* main_beach_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4424ED112A004E378B /* main_beach_2208_1242.json */; };
+		6E892E5124ED112C004E378B /* main_aewol_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4524ED112B004E378B /* main_aewol_2208_1242.json */; };
+		6E892E5224ED112C004E378B /* main_deck_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E4624ED112C004E378B /* main_deck_2208_1242.json */; };
+		6E892E5424ED1637004E378B /* 4. saryeoni_1136_640.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E5324ED1637004E378B /* 4. saryeoni_1136_640.json */; };
+		6E892E5E24ED1B80004E378B /* 11. pokpo2_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E5B24ED1B7E004E378B /* 11. pokpo2_2208_1242.json */; };
+		6E892E5F24ED1B80004E378B /* 11. pokpo1_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E5C24ED1B7F004E378B /* 11. pokpo1_2208_1242.json */; };
+		6E892E6024ED1B80004E378B /* 11. pokpo3_2208_1242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E892E5D24ED1B80004E378B /* 11. pokpo3_2208_1242.json */; };
+		6E96B4B1227ACE5300B6AFAD /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E96B4B0227ACE5300B6AFAD /* IntroViewController.swift */; };
+		6EAD7901250A1B5800AA0B56 /* 3.밤(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78E9250A1B5400AA0B56 /* 3.밤(B).mp3 */; };
+		6EAD7902250A1B5800AA0B56 /* 4.어판장(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78EA250A1B5400AA0B56 /* 4.어판장(B).mp3 */; };
+		6EAD7903250A1B5800AA0B56 /* 10.폭포(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78EB250A1B5400AA0B56 /* 10.폭포(B).mp3 */; };
+		6EAD7904250A1B5800AA0B56 /* 5.녹차밭(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78EC250A1B5400AA0B56 /* 5.녹차밭(B).mp3 */; };
+		6EAD7905250A1B5800AA0B56 /* 12.쇠소깍(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78ED250A1B5400AA0B56 /* 12.쇠소깍(B).mp3 */; };
+		6EAD7906250A1B5800AA0B56 /* 11.올레길(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78EE250A1B5400AA0B56 /* 11.올레길(B).mp3 */; };
+		6EAD7907250A1B5800AA0B56 /* 6.애월(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78EF250A1B5400AA0B56 /* 6.애월(B).mp3 */; };
+		6EAD7908250A1B5800AA0B56 /* 7.사려니(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F0250A1B5400AA0B56 /* 7.사려니(B).mp3 */; };
+		6EAD7909250A1B5800AA0B56 /* 9.사찰(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F1250A1B5400AA0B56 /* 9.사찰(B).mp3 */; };
+		6EAD790A250A1B5800AA0B56 /* 8.공항(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F2250A1B5400AA0B56 /* 8.공항(B).mp3 */; };
+		6EAD790B250A1B5800AA0B56 /* 2.우도(B).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F3250A1B5400AA0B56 /* 2.우도(B).mp3 */; };
+		6EAD790C250A1B5800AA0B56 /* 2.우도(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F5250A1B5800AA0B56 /* 2.우도(A).mp3 */; };
+		6EAD790D250A1B5800AA0B56 /* 1.메인화면(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F6250A1B5800AA0B56 /* 1.메인화면(A).mp3 */; };
+		6EAD790E250A1B5800AA0B56 /* 8.공항(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F7250A1B5800AA0B56 /* 8.공항(A).mp3 */; };
+		6EAD790F250A1B5800AA0B56 /* 9.사찰(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F8250A1B5800AA0B56 /* 9.사찰(A).mp3 */; };
+		6EAD7910250A1B5800AA0B56 /* 7.사려니(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78F9250A1B5800AA0B56 /* 7.사려니(A).mp3 */; };
+		6EAD7911250A1B5800AA0B56 /* 6.애월(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FA250A1B5800AA0B56 /* 6.애월(A).mp3 */; };
+		6EAD7912250A1B5800AA0B56 /* 12.쇠소깍(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FB250A1B5800AA0B56 /* 12.쇠소깍(A).mp3 */; };
+		6EAD7913250A1B5800AA0B56 /* 11.올레길(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FC250A1B5800AA0B56 /* 11.올레길(A).mp3 */; };
+		6EAD7914250A1B5800AA0B56 /* 5.녹차밭(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FD250A1B5800AA0B56 /* 5.녹차밭(A).mp3 */; };
+		6EAD7915250A1B5800AA0B56 /* 10.폭포(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FE250A1B5800AA0B56 /* 10.폭포(A).mp3 */; };
+		6EAD7916250A1B5800AA0B56 /* 4.어판장(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD78FF250A1B5800AA0B56 /* 4.어판장(A).mp3 */; };
+		6EAD7917250A1B5800AA0B56 /* 3.밤(A).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6EAD7900250A1B5800AA0B56 /* 3.밤(A).mp3 */; };
+		6ECE4B4724EBC312007B81ED /* 11. pokpo3_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B4424EBC310007B81ED /* 11. pokpo3_2436_1125.json */; };
+		6ECE4B4824EBC312007B81ED /* 11. pokpo1_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B4524EBC311007B81ED /* 11. pokpo1_2436_1125.json */; };
+		6ECE4B4924EBC312007B81ED /* 11. pokpo2_2436_1125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B4624EBC312007B81ED /* 11. pokpo2_2436_1125.json */; };
+		6ECE4B6624EBC3CA007B81ED /* main_pokpo.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5A24EBC3C1007B81ED /* main_pokpo.json */; };
+		6ECE4B6724EBC3CA007B81ED /* main_camera.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5B24EBC3C2007B81ED /* main_camera.json */; };
+		6ECE4B6824EBC3CA007B81ED /* main_aewol.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5C24EBC3C3007B81ED /* main_aewol.json */; };
+		6ECE4B6924EBC3CA007B81ED /* main_olle.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5D24EBC3C4007B81ED /* main_olle.json */; };
+		6ECE4B6A24EBC3CA007B81ED /* main_soggak.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5E24EBC3C5007B81ED /* main_soggak.json */; };
+		6ECE4B6B24EBC3CA007B81ED /* main_airport.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B5F24EBC3C6007B81ED /* main_airport.json */; };
+		6ECE4B6C24EBC3CA007B81ED /* main_beach.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6024EBC3C7007B81ED /* main_beach.json */; };
+		6ECE4B6D24EBC3CA007B81ED /* main_nokcha.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6124EBC3C7007B81ED /* main_nokcha.json */; };
+		6ECE4B6E24EBC3CA007B81ED /* main_saryeoni.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6224EBC3C8007B81ED /* main_saryeoni.json */; };
+		6ECE4B6F24EBC3CA007B81ED /* main_center.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6324EBC3C8007B81ED /* main_center.json */; };
+		6ECE4B7024EBC3CA007B81ED /* main_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6424EBC3C9007B81ED /* main_deck.json */; };
+		6ECE4B7124EBC3CA007B81ED /* main_cheonwangsa.json in Resources */ = {isa = PBXBuildFile; fileRef = 6ECE4B6524EBC3CA007B81ED /* main_cheonwangsa.json */; };
+		6EDBC62E248DEBDC00ED1CF6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6EDBC62D248DEBDC00ED1CF6 /* GoogleService-Info.plist */; };
+		6EDC94BE22979A0500CDE424 /* ScaleSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDC94BD22979A0500CDE424 /* ScaleSegue.swift */; };
+		6EEFF46624E6247D006B8273 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEFF46524E6247D006B8273 /* StringExtension.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		59BC8534856788CB855F7CFD /* Pods-ADRE.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ADRE.debug.xcconfig"; path = "Target Support Files/Pods-ADRE/Pods-ADRE.debug.xcconfig"; sourceTree = "<group>"; };
+		6E1B57E924E220EC0069A0C4 /* 2. nokcha_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "2. nokcha_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57EA24E220ED0069A0C4 /* 5. deck human_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck human_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57EB24E220ED0069A0C4 /* 7. udo wave_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "7. udo wave_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57EC24E220EE0069A0C4 /* 8. bambada light wave_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "8. bambada light wave_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57ED24E220EF0069A0C4 /* 3. cheonwangsa_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "3. cheonwangsa_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57EF24E220F00069A0C4 /* 1. airport_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "1. airport_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F124E220F20069A0C4 /* 6. soggak boat_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "6. soggak boat_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F324E220F40069A0C4 /* 6. soggak wave_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "6. soggak wave_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F424E220F40069A0C4 /* 4. saryeoni_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "4. saryeoni_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F524E220F50069A0C4 /* 8. bambada star_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "8. bambada star_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F624E220F60069A0C4 /* 7. udo human_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "7. udo human_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F724E220F60069A0C4 /* 9. Aewol human_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "9. Aewol human_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F824E220F70069A0C4 /* 9. Aewol wave_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "9. Aewol wave_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B57F924E220F80069A0C4 /* 5. deck wave_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck wave_2208_1242.json"; sourceTree = "<group>"; };
+		6E1B580B24E221130069A0C4 /* 8. bambada light wave_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "8. bambada light wave_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B580C24E221140069A0C4 /* 2. nokcha_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "2. nokcha_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B580D24E221140069A0C4 /* 3. cheonwangsa_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "3. cheonwangsa_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B580E24E221150069A0C4 /* 5. deck wave_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck wave_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B580F24E221160069A0C4 /* 7. udo human_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "7. udo human_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581024E221170069A0C4 /* 6. soggak wave_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "6. soggak wave_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581224E221190069A0C4 /* 1. airport_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "1. airport_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581324E221190069A0C4 /* 8. bambada star_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "8. bambada star_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581424E2211A0069A0C4 /* 9. Aewol wave_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "9. Aewol wave_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581524E2211B0069A0C4 /* 9. Aewol human_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "9. Aewol human_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581824E2211D0069A0C4 /* 5. deck human_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck human_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581924E2211D0069A0C4 /* 7. udo wave_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "7. udo wave_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581A24E2211E0069A0C4 /* 6. soggak boat_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "6. soggak boat_2436_1125.json"; sourceTree = "<group>"; };
+		6E1B581B24E2211F0069A0C4 /* 4. saryeoni_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "4. saryeoni_2436_1125.json"; sourceTree = "<group>"; };
+		6E1C562324E4BFA500105E72 /* 5. deck ship_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck ship_2436_1125.json"; sourceTree = "<group>"; };
+		6E1C562524E4BFB200105E72 /* 5. deck ship_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5. deck ship_2208_1242.json"; sourceTree = "<group>"; };
+		6E1C562924E4BFF200105E72 /* 10. olle shadow_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "10. olle shadow_2436_1125.json"; sourceTree = "<group>"; };
+		6E1C562A24E4BFF300105E72 /* 10. olle tree cloud_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "10. olle tree cloud_2436_1125.json"; sourceTree = "<group>"; };
+		6E1C562D24E4BFFE00105E72 /* 10. olle shadow_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "10. olle shadow_2208_1242.json"; sourceTree = "<group>"; };
+		6E1C562E24E4BFFF00105E72 /* 10. olle tree cloud_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "10. olle tree cloud_2208_1242.json"; sourceTree = "<group>"; };
+		6E1CAB4F2472204900190EDE /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		6E1CAB5124725BE300190EDE /* storeObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = storeObserver.swift; sourceTree = "<group>"; };
+		6E4DB69F2264B3E800C8B96D /* ADRE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ADRE.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E4DB6A22264B3E800C8B96D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6E4DB6A42264B3E800C8B96D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6E4DB6A72264B3E800C8B96D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6E4DB6AC2264B3E800C8B96D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6E4DB6AF2264B3E800C8B96D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6E4DB6B12264B3E800C8B96D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E64C2DE228270F8001A2544 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		6E6BCAB9263BEDF4007659D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6E6BCABB263BEDF8007659D5 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6E892E3B24ED111A004E378B /* main_pokpo_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_pokpo_2208_1242.json; sourceTree = "<group>"; };
+		6E892E3C24ED111B004E378B /* main_saryeoni_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_saryeoni_2208_1242.json; sourceTree = "<group>"; };
+		6E892E3D24ED111C004E378B /* main_cheonwangsa_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_cheonwangsa_2208_1242.json; sourceTree = "<group>"; };
+		6E892E3E24ED111D004E378B /* main_center_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_center_2208_1242.json; sourceTree = "<group>"; };
+		6E892E3F24ED111E004E378B /* main_airport_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_airport_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4024ED1120004E378B /* main_olle_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_olle_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4124ED1122004E378B /* main_soggak_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_soggak_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4224ED1127004E378B /* main_nokcha_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_nokcha_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4324ED1128004E378B /* main_camera_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_camera_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4424ED112A004E378B /* main_beach_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_beach_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4524ED112B004E378B /* main_aewol_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_aewol_2208_1242.json; sourceTree = "<group>"; };
+		6E892E4624ED112C004E378B /* main_deck_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_deck_2208_1242.json; sourceTree = "<group>"; };
+		6E892E5324ED1637004E378B /* 4. saryeoni_1136_640.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "4. saryeoni_1136_640.json"; sourceTree = "<group>"; };
+		6E892E5B24ED1B7E004E378B /* 11. pokpo2_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo2_2208_1242.json"; sourceTree = "<group>"; };
+		6E892E5C24ED1B7F004E378B /* 11. pokpo1_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo1_2208_1242.json"; sourceTree = "<group>"; };
+		6E892E5D24ED1B80004E378B /* 11. pokpo3_2208_1242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo3_2208_1242.json"; sourceTree = "<group>"; };
+		6E96B4B0227ACE5300B6AFAD /* IntroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
+		6EA2B3392416110E00AEC36D /* ADRE.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ADRE.entitlements; sourceTree = "<group>"; };
+		6EAD78E9250A1B5400AA0B56 /* 3.밤(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "3.밤(B).mp3"; sourceTree = "<group>"; };
+		6EAD78EA250A1B5400AA0B56 /* 4.어판장(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "4.어판장(B).mp3"; sourceTree = "<group>"; };
+		6EAD78EB250A1B5400AA0B56 /* 10.폭포(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10.폭포(B).mp3"; sourceTree = "<group>"; };
+		6EAD78EC250A1B5400AA0B56 /* 5.녹차밭(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "5.녹차밭(B).mp3"; sourceTree = "<group>"; };
+		6EAD78ED250A1B5400AA0B56 /* 12.쇠소깍(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12.쇠소깍(B).mp3"; sourceTree = "<group>"; };
+		6EAD78EE250A1B5400AA0B56 /* 11.올레길(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11.올레길(B).mp3"; sourceTree = "<group>"; };
+		6EAD78EF250A1B5400AA0B56 /* 6.애월(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "6.애월(B).mp3"; sourceTree = "<group>"; };
+		6EAD78F0250A1B5400AA0B56 /* 7.사려니(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7.사려니(B).mp3"; sourceTree = "<group>"; };
+		6EAD78F1250A1B5400AA0B56 /* 9.사찰(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "9.사찰(B).mp3"; sourceTree = "<group>"; };
+		6EAD78F2250A1B5400AA0B56 /* 8.공항(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "8.공항(B).mp3"; sourceTree = "<group>"; };
+		6EAD78F3250A1B5400AA0B56 /* 2.우도(B).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "2.우도(B).mp3"; sourceTree = "<group>"; };
+		6EAD78F5250A1B5800AA0B56 /* 2.우도(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "2.우도(A).mp3"; sourceTree = "<group>"; };
+		6EAD78F6250A1B5800AA0B56 /* 1.메인화면(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "1.메인화면(A).mp3"; sourceTree = "<group>"; };
+		6EAD78F7250A1B5800AA0B56 /* 8.공항(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "8.공항(A).mp3"; sourceTree = "<group>"; };
+		6EAD78F8250A1B5800AA0B56 /* 9.사찰(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "9.사찰(A).mp3"; sourceTree = "<group>"; };
+		6EAD78F9250A1B5800AA0B56 /* 7.사려니(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7.사려니(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FA250A1B5800AA0B56 /* 6.애월(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "6.애월(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FB250A1B5800AA0B56 /* 12.쇠소깍(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12.쇠소깍(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FC250A1B5800AA0B56 /* 11.올레길(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11.올레길(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FD250A1B5800AA0B56 /* 5.녹차밭(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "5.녹차밭(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FE250A1B5800AA0B56 /* 10.폭포(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10.폭포(A).mp3"; sourceTree = "<group>"; };
+		6EAD78FF250A1B5800AA0B56 /* 4.어판장(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "4.어판장(A).mp3"; sourceTree = "<group>"; };
+		6EAD7900250A1B5800AA0B56 /* 3.밤(A).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "3.밤(A).mp3"; sourceTree = "<group>"; };
+		6ECE4B4424EBC310007B81ED /* 11. pokpo3_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo3_2436_1125.json"; sourceTree = "<group>"; };
+		6ECE4B4524EBC311007B81ED /* 11. pokpo1_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo1_2436_1125.json"; sourceTree = "<group>"; };
+		6ECE4B4624EBC312007B81ED /* 11. pokpo2_2436_1125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "11. pokpo2_2436_1125.json"; sourceTree = "<group>"; };
+		6ECE4B5A24EBC3C1007B81ED /* main_pokpo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_pokpo.json; sourceTree = "<group>"; };
+		6ECE4B5B24EBC3C2007B81ED /* main_camera.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_camera.json; sourceTree = "<group>"; };
+		6ECE4B5C24EBC3C3007B81ED /* main_aewol.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_aewol.json; sourceTree = "<group>"; };
+		6ECE4B5D24EBC3C4007B81ED /* main_olle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_olle.json; sourceTree = "<group>"; };
+		6ECE4B5E24EBC3C5007B81ED /* main_soggak.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_soggak.json; sourceTree = "<group>"; };
+		6ECE4B5F24EBC3C6007B81ED /* main_airport.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_airport.json; sourceTree = "<group>"; };
+		6ECE4B6024EBC3C7007B81ED /* main_beach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_beach.json; sourceTree = "<group>"; };
+		6ECE4B6124EBC3C7007B81ED /* main_nokcha.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_nokcha.json; sourceTree = "<group>"; };
+		6ECE4B6224EBC3C8007B81ED /* main_saryeoni.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_saryeoni.json; sourceTree = "<group>"; };
+		6ECE4B6324EBC3C8007B81ED /* main_center.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_center.json; sourceTree = "<group>"; };
+		6ECE4B6424EBC3C9007B81ED /* main_deck.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_deck.json; sourceTree = "<group>"; };
+		6ECE4B6524EBC3CA007B81ED /* main_cheonwangsa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = main_cheonwangsa.json; sourceTree = "<group>"; };
+		6EDBC62D248DEBDC00ED1CF6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		6EDC94BD22979A0500CDE424 /* ScaleSegue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleSegue.swift; sourceTree = "<group>"; };
+		6EEFF46524E6247D006B8273 /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		6EEFF47224E67B1D006B8273 /* ADRE-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ADRE-Bridging-Header.h"; sourceTree = "<group>"; };
+		91EE2613407C7A88C12DE185 /* Pods_ADRE.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ADRE.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA07ED61736CF777C8794D26 /* Pods-ADRE.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ADRE.release.xcconfig"; path = "Target Support Files/Pods-ADRE/Pods-ADRE.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6E4DB69C2264B3E800C8B96D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E7FF6B6241237D90075288C /* Pods_ADRE.framework in Frameworks */,
+				6E1CAB502472204A00190EDE /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1411555E5DB2FDFD0598C280 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6E1CAB4F2472204900190EDE /* StoreKit.framework */,
+				91EE2613407C7A88C12DE185 /* Pods_ADRE.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		583BBCD1803A34C25D35770E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				59BC8534856788CB855F7CFD /* Pods-ADRE.debug.xcconfig */,
+				FA07ED61736CF777C8794D26 /* Pods-ADRE.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		6E1B57C324E220310069A0C4 /* x */ = {
+			isa = PBXGroup;
+			children = (
+				6E1B581224E221190069A0C4 /* 1. airport_2436_1125.json */,
+				6E1B580C24E221140069A0C4 /* 2. nokcha_2436_1125.json */,
+				6E1B580D24E221140069A0C4 /* 3. cheonwangsa_2436_1125.json */,
+				6E1B581B24E2211F0069A0C4 /* 4. saryeoni_2436_1125.json */,
+				6E1B581824E2211D0069A0C4 /* 5. deck human_2436_1125.json */,
+				6E1C562324E4BFA500105E72 /* 5. deck ship_2436_1125.json */,
+				6E1B580E24E221150069A0C4 /* 5. deck wave_2436_1125.json */,
+				6E1B581A24E2211E0069A0C4 /* 6. soggak boat_2436_1125.json */,
+				6E1B581024E221170069A0C4 /* 6. soggak wave_2436_1125.json */,
+				6E1B580F24E221160069A0C4 /* 7. udo human_2436_1125.json */,
+				6E1B581924E2211D0069A0C4 /* 7. udo wave_2436_1125.json */,
+				6E1B580B24E221130069A0C4 /* 8. bambada light wave_2436_1125.json */,
+				6E1B581324E221190069A0C4 /* 8. bambada star_2436_1125.json */,
+				6E1B581524E2211B0069A0C4 /* 9. Aewol human_2436_1125.json */,
+				6E1B581424E2211A0069A0C4 /* 9. Aewol wave_2436_1125.json */,
+				6E1C562924E4BFF200105E72 /* 10. olle shadow_2436_1125.json */,
+				6E1C562A24E4BFF300105E72 /* 10. olle tree cloud_2436_1125.json */,
+				6ECE4B4524EBC311007B81ED /* 11. pokpo1_2436_1125.json */,
+				6ECE4B4624EBC312007B81ED /* 11. pokpo2_2436_1125.json */,
+				6ECE4B4424EBC310007B81ED /* 11. pokpo3_2436_1125.json */,
+			);
+			path = x;
+			sourceTree = "<group>";
+		};
+		6E1B57C424E220370069A0C4 /* 7 */ = {
+			isa = PBXGroup;
+			children = (
+				6E892E5324ED1637004E378B /* 4. saryeoni_1136_640.json */,
+				6E1B57EF24E220F00069A0C4 /* 1. airport_2208_1242.json */,
+				6E1B57E924E220EC0069A0C4 /* 2. nokcha_2208_1242.json */,
+				6E1B57ED24E220EF0069A0C4 /* 3. cheonwangsa_2208_1242.json */,
+				6E1B57F424E220F40069A0C4 /* 4. saryeoni_2208_1242.json */,
+				6E1B57EA24E220ED0069A0C4 /* 5. deck human_2208_1242.json */,
+				6E1C562524E4BFB200105E72 /* 5. deck ship_2208_1242.json */,
+				6E1B57F924E220F80069A0C4 /* 5. deck wave_2208_1242.json */,
+				6E1B57F124E220F20069A0C4 /* 6. soggak boat_2208_1242.json */,
+				6E1B57F324E220F40069A0C4 /* 6. soggak wave_2208_1242.json */,
+				6E1B57F624E220F60069A0C4 /* 7. udo human_2208_1242.json */,
+				6E1B57EB24E220ED0069A0C4 /* 7. udo wave_2208_1242.json */,
+				6E1B57EC24E220EE0069A0C4 /* 8. bambada light wave_2208_1242.json */,
+				6E1B57F524E220F50069A0C4 /* 8. bambada star_2208_1242.json */,
+				6E1B57F724E220F60069A0C4 /* 9. Aewol human_2208_1242.json */,
+				6E1B57F824E220F70069A0C4 /* 9. Aewol wave_2208_1242.json */,
+				6E1C562D24E4BFFE00105E72 /* 10. olle shadow_2208_1242.json */,
+				6E1C562E24E4BFFF00105E72 /* 10. olle tree cloud_2208_1242.json */,
+				6E892E5C24ED1B7F004E378B /* 11. pokpo1_2208_1242.json */,
+				6E892E5B24ED1B7E004E378B /* 11. pokpo2_2208_1242.json */,
+				6E892E5D24ED1B80004E378B /* 11. pokpo3_2208_1242.json */,
+			);
+			path = 7;
+			sourceTree = "<group>";
+		};
+		6E30A63A24C549DC009600B4 /* lottie */ = {
+			isa = PBXGroup;
+			children = (
+				6ECE4B5624EBC39B007B81ED /* main */,
+				6E1B57C424E220370069A0C4 /* 7 */,
+				6E1B57C324E220310069A0C4 /* x */,
+			);
+			path = lottie;
+			sourceTree = "<group>";
+		};
+		6E4DB6962264B3E800C8B96D = {
+			isa = PBXGroup;
+			children = (
+				6E4DB6A12264B3E800C8B96D /* ADRE */,
+				6E4DB6A02264B3E800C8B96D /* Products */,
+				583BBCD1803A34C25D35770E /* Pods */,
+				1411555E5DB2FDFD0598C280 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		6E4DB6A02264B3E800C8B96D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6E4DB69F2264B3E800C8B96D /* ADRE.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6E4DB6A12264B3E800C8B96D /* ADRE */ = {
+			isa = PBXGroup;
+			children = (
+				6EA2B3392416110E00AEC36D /* ADRE.entitlements */,
+				6E64C2D92282677D001A2544 /* music */,
+				6E30A63A24C549DC009600B4 /* lottie */,
+				6E64C2DD228270D9001A2544 /* detail */,
+				6E96B4A8227AA6FF00B6AFAD /* intro */,
+				6E4DB6A22264B3E800C8B96D /* AppDelegate.swift */,
+				6E4DB6A42264B3E800C8B96D /* ViewController.swift */,
+				6EDC94BD22979A0500CDE424 /* ScaleSegue.swift */,
+				6E1CAB5124725BE300190EDE /* storeObserver.swift */,
+				6EEFF46524E6247D006B8273 /* StringExtension.swift */,
+				6E4DB6A62264B3E800C8B96D /* Main.storyboard */,
+				6E4DB6AE2264B3E800C8B96D /* LaunchScreen.storyboard */,
+				6E4DB6AC2264B3E800C8B96D /* Assets.xcassets */,
+				6E4DB6B12264B3E800C8B96D /* Info.plist */,
+				6EDBC62D248DEBDC00ED1CF6 /* GoogleService-Info.plist */,
+				6E6BCABA263BEDF4007659D5 /* Localizable.strings */,
+				6EEFF47224E67B1D006B8273 /* ADRE-Bridging-Header.h */,
+			);
+			path = ADRE;
+			sourceTree = "<group>";
+		};
+		6E64C2D92282677D001A2544 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				6EAD78F4250A1B5800AA0B56 /* stay */,
+				6EAD78E8250A1B5400AA0B56 /* tour */,
+			);
+			path = music;
+			sourceTree = "<group>";
+		};
+		6E64C2DD228270D9001A2544 /* detail */ = {
+			isa = PBXGroup;
+			children = (
+				6E64C2DE228270F8001A2544 /* DetailViewController.swift */,
+			);
+			path = detail;
+			sourceTree = "<group>";
+		};
+		6E892E3A24ED110C004E378B /* 7 */ = {
+			isa = PBXGroup;
+			children = (
+				6E892E4524ED112B004E378B /* main_aewol_2208_1242.json */,
+				6E892E3F24ED111E004E378B /* main_airport_2208_1242.json */,
+				6E892E4424ED112A004E378B /* main_beach_2208_1242.json */,
+				6E892E4324ED1128004E378B /* main_camera_2208_1242.json */,
+				6E892E3E24ED111D004E378B /* main_center_2208_1242.json */,
+				6E892E3D24ED111C004E378B /* main_cheonwangsa_2208_1242.json */,
+				6E892E4624ED112C004E378B /* main_deck_2208_1242.json */,
+				6E892E4224ED1127004E378B /* main_nokcha_2208_1242.json */,
+				6E892E4024ED1120004E378B /* main_olle_2208_1242.json */,
+				6E892E3B24ED111A004E378B /* main_pokpo_2208_1242.json */,
+				6E892E3C24ED111B004E378B /* main_saryeoni_2208_1242.json */,
+				6E892E4124ED1122004E378B /* main_soggak_2208_1242.json */,
+			);
+			path = 7;
+			sourceTree = "<group>";
+		};
+		6E96B4A8227AA6FF00B6AFAD /* intro */ = {
+			isa = PBXGroup;
+			children = (
+				6E96B4B0227ACE5300B6AFAD /* IntroViewController.swift */,
+			);
+			path = intro;
+			sourceTree = "<group>";
+		};
+		6EAD78E8250A1B5400AA0B56 /* tour */ = {
+			isa = PBXGroup;
+			children = (
+				6EAD78E9250A1B5400AA0B56 /* 3.밤(B).mp3 */,
+				6EAD78EA250A1B5400AA0B56 /* 4.어판장(B).mp3 */,
+				6EAD78EB250A1B5400AA0B56 /* 10.폭포(B).mp3 */,
+				6EAD78EC250A1B5400AA0B56 /* 5.녹차밭(B).mp3 */,
+				6EAD78ED250A1B5400AA0B56 /* 12.쇠소깍(B).mp3 */,
+				6EAD78EE250A1B5400AA0B56 /* 11.올레길(B).mp3 */,
+				6EAD78EF250A1B5400AA0B56 /* 6.애월(B).mp3 */,
+				6EAD78F0250A1B5400AA0B56 /* 7.사려니(B).mp3 */,
+				6EAD78F1250A1B5400AA0B56 /* 9.사찰(B).mp3 */,
+				6EAD78F2250A1B5400AA0B56 /* 8.공항(B).mp3 */,
+				6EAD78F3250A1B5400AA0B56 /* 2.우도(B).mp3 */,
+			);
+			path = tour;
+			sourceTree = "<group>";
+		};
+		6EAD78F4250A1B5800AA0B56 /* stay */ = {
+			isa = PBXGroup;
+			children = (
+				6EAD78F5250A1B5800AA0B56 /* 2.우도(A).mp3 */,
+				6EAD78F6250A1B5800AA0B56 /* 1.메인화면(A).mp3 */,
+				6EAD78F7250A1B5800AA0B56 /* 8.공항(A).mp3 */,
+				6EAD78F8250A1B5800AA0B56 /* 9.사찰(A).mp3 */,
+				6EAD78F9250A1B5800AA0B56 /* 7.사려니(A).mp3 */,
+				6EAD78FA250A1B5800AA0B56 /* 6.애월(A).mp3 */,
+				6EAD78FB250A1B5800AA0B56 /* 12.쇠소깍(A).mp3 */,
+				6EAD78FC250A1B5800AA0B56 /* 11.올레길(A).mp3 */,
+				6EAD78FD250A1B5800AA0B56 /* 5.녹차밭(A).mp3 */,
+				6EAD78FE250A1B5800AA0B56 /* 10.폭포(A).mp3 */,
+				6EAD78FF250A1B5800AA0B56 /* 4.어판장(A).mp3 */,
+				6EAD7900250A1B5800AA0B56 /* 3.밤(A).mp3 */,
+			);
+			path = stay;
+			sourceTree = "<group>";
+		};
+		6ECE4B5624EBC39B007B81ED /* main */ = {
+			isa = PBXGroup;
+			children = (
+				6E892E3A24ED110C004E378B /* 7 */,
+				6ECE4B5924EBC3AC007B81ED /* x */,
+			);
+			path = main;
+			sourceTree = "<group>";
+		};
+		6ECE4B5924EBC3AC007B81ED /* x */ = {
+			isa = PBXGroup;
+			children = (
+				6ECE4B5C24EBC3C3007B81ED /* main_aewol.json */,
+				6ECE4B5F24EBC3C6007B81ED /* main_airport.json */,
+				6ECE4B6024EBC3C7007B81ED /* main_beach.json */,
+				6ECE4B5B24EBC3C2007B81ED /* main_camera.json */,
+				6ECE4B6324EBC3C8007B81ED /* main_center.json */,
+				6ECE4B6524EBC3CA007B81ED /* main_cheonwangsa.json */,
+				6ECE4B6424EBC3C9007B81ED /* main_deck.json */,
+				6ECE4B6124EBC3C7007B81ED /* main_nokcha.json */,
+				6ECE4B5D24EBC3C4007B81ED /* main_olle.json */,
+				6ECE4B5A24EBC3C1007B81ED /* main_pokpo.json */,
+				6ECE4B6224EBC3C8007B81ED /* main_saryeoni.json */,
+				6ECE4B5E24EBC3C5007B81ED /* main_soggak.json */,
+			);
+			path = x;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6E4DB69E2264B3E800C8B96D /* ADRE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E4DB6B42264B3E800C8B96D /* Build configuration list for PBXNativeTarget "ADRE" */;
+			buildPhases = (
+				F5E09BADB1A1B63AAC208E23 /* [CP] Check Pods Manifest.lock */,
+				6E4DB69B2264B3E800C8B96D /* Sources */,
+				6E4DB69C2264B3E800C8B96D /* Frameworks */,
+				6E4DB69D2264B3E800C8B96D /* Resources */,
+				65C775D62BA189EF47494453 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ADRE;
+			productName = ADRE;
+			productReference = 6E4DB69F2264B3E800C8B96D /* ADRE.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6E4DB6972264B3E800C8B96D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "youngwoo Choi";
+				TargetAttributes = {
+					6E4DB69E2264B3E800C8B96D = {
+						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 0;
+							};
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 6E4DB69A2264B3E800C8B96D /* Build configuration list for PBXProject "ADRE" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ko,
+			);
+			mainGroup = 6E4DB6962264B3E800C8B96D;
+			productRefGroup = 6E4DB6A02264B3E800C8B96D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6E4DB69E2264B3E800C8B96D /* ADRE */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6E4DB69D2264B3E800C8B96D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6ECE4B4824EBC312007B81ED /* 11. pokpo1_2436_1125.json in Resources */,
+				6E892E5224ED112C004E378B /* main_deck_2208_1242.json in Resources */,
+				6E1B581F24E2211F0069A0C4 /* 5. deck wave_2436_1125.json in Resources */,
+				6E1B580424E220F80069A0C4 /* 6. soggak wave_2208_1242.json in Resources */,
+				6EAD790D250A1B5800AA0B56 /* 1.메인화면(A).mp3 in Resources */,
+				6E1B581D24E2211F0069A0C4 /* 2. nokcha_2436_1125.json in Resources */,
+				6EAD7914250A1B5800AA0B56 /* 5.녹차밭(A).mp3 in Resources */,
+				6E892E4C24ED112C004E378B /* main_olle_2208_1242.json in Resources */,
+				6EAD7917250A1B5800AA0B56 /* 3.밤(A).mp3 in Resources */,
+				6E1B57FE24E220F80069A0C4 /* 3. cheonwangsa_2208_1242.json in Resources */,
+				6E1B581C24E2211F0069A0C4 /* 8. bambada light wave_2436_1125.json in Resources */,
+				6E1C562C24E4BFF300105E72 /* 10. olle tree cloud_2436_1125.json in Resources */,
+				6E892E4A24ED112C004E378B /* main_center_2208_1242.json in Resources */,
+				6E1B582B24E2211F0069A0C4 /* 6. soggak boat_2436_1125.json in Resources */,
+				6EAD790C250A1B5800AA0B56 /* 2.우도(A).mp3 in Resources */,
+				6E1B57FD24E220F80069A0C4 /* 8. bambada light wave_2208_1242.json in Resources */,
+				6E6BCAB8263BEDF4007659D5 /* Localizable.strings in Resources */,
+				6E4DB6B02264B3E800C8B96D /* LaunchScreen.storyboard in Resources */,
+				6ECE4B6624EBC3CA007B81ED /* main_pokpo.json in Resources */,
+				6E1C562B24E4BFF300105E72 /* 10. olle shadow_2436_1125.json in Resources */,
+				6E1B580624E220F80069A0C4 /* 8. bambada star_2208_1242.json in Resources */,
+				6EAD7912250A1B5800AA0B56 /* 12.쇠소깍(A).mp3 in Resources */,
+				6EDBC62E248DEBDC00ED1CF6 /* GoogleService-Info.plist in Resources */,
+				6EAD7902250A1B5800AA0B56 /* 4.어판장(B).mp3 in Resources */,
+				6E1B57FB24E220F80069A0C4 /* 5. deck human_2208_1242.json in Resources */,
+				6E1B580224E220F80069A0C4 /* 6. soggak boat_2208_1242.json in Resources */,
+				6ECE4B6824EBC3CA007B81ED /* main_aewol.json in Resources */,
+				6E892E5424ED1637004E378B /* 4. saryeoni_1136_640.json in Resources */,
+				6E1B582124E2211F0069A0C4 /* 6. soggak wave_2436_1125.json in Resources */,
+				6E1B580724E220F80069A0C4 /* 7. udo human_2208_1242.json in Resources */,
+				6E1B57FC24E220F80069A0C4 /* 7. udo wave_2208_1242.json in Resources */,
+				6EAD7908250A1B5800AA0B56 /* 7.사려니(B).mp3 in Resources */,
+				6E892E4824ED112C004E378B /* main_saryeoni_2208_1242.json in Resources */,
+				6E892E4D24ED112C004E378B /* main_soggak_2208_1242.json in Resources */,
+				6EAD7901250A1B5800AA0B56 /* 3.밤(B).mp3 in Resources */,
+				6EAD790F250A1B5800AA0B56 /* 9.사찰(A).mp3 in Resources */,
+				6EAD7913250A1B5800AA0B56 /* 11.올레길(A).mp3 in Resources */,
+				6E1B582624E2211F0069A0C4 /* 9. Aewol human_2436_1125.json in Resources */,
+				6E1B582024E2211F0069A0C4 /* 7. udo human_2436_1125.json in Resources */,
+				6ECE4B6D24EBC3CA007B81ED /* main_nokcha.json in Resources */,
+				6E1B582324E2211F0069A0C4 /* 1. airport_2436_1125.json in Resources */,
+				6EAD7910250A1B5800AA0B56 /* 7.사려니(A).mp3 in Resources */,
+				6ECE4B4724EBC312007B81ED /* 11. pokpo3_2436_1125.json in Resources */,
+				6E1C562F24E4BFFF00105E72 /* 10. olle shadow_2208_1242.json in Resources */,
+				6ECE4B7124EBC3CA007B81ED /* main_cheonwangsa.json in Resources */,
+				6E1C563024E4BFFF00105E72 /* 10. olle tree cloud_2208_1242.json in Resources */,
+				6ECE4B6E24EBC3CA007B81ED /* main_saryeoni.json in Resources */,
+				6ECE4B6A24EBC3CA007B81ED /* main_soggak.json in Resources */,
+				6ECE4B7024EBC3CA007B81ED /* main_deck.json in Resources */,
+				6E1B580A24E220F80069A0C4 /* 5. deck wave_2208_1242.json in Resources */,
+				6ECE4B6924EBC3CA007B81ED /* main_olle.json in Resources */,
+				6E892E4724ED112C004E378B /* main_pokpo_2208_1242.json in Resources */,
+				6E1B581E24E2211F0069A0C4 /* 3. cheonwangsa_2436_1125.json in Resources */,
+				6EAD7905250A1B5800AA0B56 /* 12.쇠소깍(B).mp3 in Resources */,
+				6E892E4F24ED112C004E378B /* main_camera_2208_1242.json in Resources */,
+				6EAD7904250A1B5800AA0B56 /* 5.녹차밭(B).mp3 in Resources */,
+				6ECE4B4924EBC312007B81ED /* 11. pokpo2_2436_1125.json in Resources */,
+				6ECE4B6C24EBC3CA007B81ED /* main_beach.json in Resources */,
+				6E892E4E24ED112C004E378B /* main_nokcha_2208_1242.json in Resources */,
+				6E892E5024ED112C004E378B /* main_beach_2208_1242.json in Resources */,
+				6E1B580824E220F80069A0C4 /* 9. Aewol human_2208_1242.json in Resources */,
+				6E1C562424E4BFA500105E72 /* 5. deck ship_2436_1125.json in Resources */,
+				6EAD7916250A1B5800AA0B56 /* 4.어판장(A).mp3 in Resources */,
+				6E1B580524E220F80069A0C4 /* 4. saryeoni_2208_1242.json in Resources */,
+				6E1B582424E2211F0069A0C4 /* 8. bambada star_2436_1125.json in Resources */,
+				6E1C562624E4BFB200105E72 /* 5. deck ship_2208_1242.json in Resources */,
+				6E1B580924E220F80069A0C4 /* 9. Aewol wave_2208_1242.json in Resources */,
+				6EAD790A250A1B5800AA0B56 /* 8.공항(B).mp3 in Resources */,
+				6EAD790E250A1B5800AA0B56 /* 8.공항(A).mp3 in Resources */,
+				6EAD790B250A1B5800AA0B56 /* 2.우도(B).mp3 in Resources */,
+				6E892E5124ED112C004E378B /* main_aewol_2208_1242.json in Resources */,
+				6ECE4B6B24EBC3CA007B81ED /* main_airport.json in Resources */,
+				6E1B57FA24E220F80069A0C4 /* 2. nokcha_2208_1242.json in Resources */,
+				6E1B582C24E2211F0069A0C4 /* 4. saryeoni_2436_1125.json in Resources */,
+				6EAD7909250A1B5800AA0B56 /* 9.사찰(B).mp3 in Resources */,
+				6ECE4B6F24EBC3CA007B81ED /* main_center.json in Resources */,
+				6ECE4B6724EBC3CA007B81ED /* main_camera.json in Resources */,
+				6E4DB6AD2264B3E800C8B96D /* Assets.xcassets in Resources */,
+				6E1B582924E2211F0069A0C4 /* 5. deck human_2436_1125.json in Resources */,
+				6EAD7911250A1B5800AA0B56 /* 6.애월(A).mp3 in Resources */,
+				6EAD7906250A1B5800AA0B56 /* 11.올레길(B).mp3 in Resources */,
+				6E892E5E24ED1B80004E378B /* 11. pokpo2_2208_1242.json in Resources */,
+				6E1B582A24E2211F0069A0C4 /* 7. udo wave_2436_1125.json in Resources */,
+				6E892E5F24ED1B80004E378B /* 11. pokpo1_2208_1242.json in Resources */,
+				6EAD7907250A1B5800AA0B56 /* 6.애월(B).mp3 in Resources */,
+				6E1B582524E2211F0069A0C4 /* 9. Aewol wave_2436_1125.json in Resources */,
+				6E892E4B24ED112C004E378B /* main_airport_2208_1242.json in Resources */,
+				6EAD7903250A1B5800AA0B56 /* 10.폭포(B).mp3 in Resources */,
+				6E892E6024ED1B80004E378B /* 11. pokpo3_2208_1242.json in Resources */,
+				6EAD7915250A1B5800AA0B56 /* 10.폭포(A).mp3 in Resources */,
+				6E892E4924ED112C004E378B /* main_cheonwangsa_2208_1242.json in Resources */,
+				6E4DB6A82264B3E800C8B96D /* Main.storyboard in Resources */,
+				6E1B580024E220F80069A0C4 /* 1. airport_2208_1242.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		65C775D62BA189EF47494453 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ADRE/Pods-ADRE-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ADRE/Pods-ADRE-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ADRE/Pods-ADRE-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F5E09BADB1A1B63AAC208E23 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ADRE-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6E4DB69B2264B3E800C8B96D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E96B4B1227ACE5300B6AFAD /* IntroViewController.swift in Sources */,
+				6EEFF46624E6247D006B8273 /* StringExtension.swift in Sources */,
+				6E4DB6A52264B3E800C8B96D /* ViewController.swift in Sources */,
+				6E1CAB5224725BE300190EDE /* storeObserver.swift in Sources */,
+				6EDC94BE22979A0500CDE424 /* ScaleSegue.swift in Sources */,
+				6E4DB6A32264B3E800C8B96D /* AppDelegate.swift in Sources */,
+				6E64C2DF228270F8001A2544 /* DetailViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6E4DB6A62264B3E800C8B96D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E4DB6A72264B3E800C8B96D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6E4DB6AE2264B3E800C8B96D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E4DB6AF2264B3E800C8B96D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		6E6BCABA263BEDF4007659D5 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E6BCAB9263BEDF4007659D5 /* en */,
+				6E6BCABB263BEDF8007659D5 /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6E4DB6B22264B3E800C8B96D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6E4DB6B32264B3E800C8B96D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6E4DB6B52264B3E800C8B96D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 59BC8534856788CB855F7CFD /* Pods-ADRE.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = ADRE/ADRE.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F26RL7Y56H;
+				INFOPLIST_FILE = ADRE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.union.ADRE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "ADRE/ADRE-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		6E4DB6B62264B3E800C8B96D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA07ED61736CF777C8794D26 /* Pods-ADRE.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = ADRE/ADRE.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F26RL7Y56H;
+				INFOPLIST_FILE = ADRE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.union.ADRE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "ADRE/ADRE-Bridging-Header.h";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6E4DB69A2264B3E800C8B96D /* Build configuration list for PBXProject "ADRE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E4DB6B22264B3E800C8B96D /* Debug */,
+				6E4DB6B32264B3E800C8B96D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E4DB6B42264B3E800C8B96D /* Build configuration list for PBXNativeTarget "ADRE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E4DB6B52264B3E800C8B96D /* Debug */,
+				6E4DB6B62264B3E800C8B96D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6E4DB6972264B3E800C8B96D /* Project object */;
+}
