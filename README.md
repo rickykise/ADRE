@@ -9,7 +9,7 @@
 4. AVFoundation을 활용하여 오디오 기능 구현
 5. TAKUUID을 활용하여 사용자 UUID + Keychain 추출
 
-- 사용기술
+- 사용기술   
 Swift, iOS, Xcode, Java, Spring Frame work   
 Alamofire, lottie-ios, Firebase, StoreKit, TAKUUID, UIKit, AVFoundation
 
